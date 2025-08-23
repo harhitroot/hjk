@@ -1,0 +1,18 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ejs": "^3.1.10",
+    "glob": "^11.0.3",
+    "inquirer": "^8.2.7",
+    "mime-db": "^1.54.0",
+    "nodemon": "^3.1.10",
+    "telegram": "^2.26.22"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
+
